@@ -1,0 +1,53 @@
+#intro {
+    background-image: linear-gradient(to right, red, blue);
+}
+
+#cube_image {
+    height: 30%;
+}
+
+#how_to_solve {
+    background-image: linear-gradient(lightgreen, lightblue);
+}
+
+#practice {
+    background-image: linear-gradient(rgb(250, 78, 35), lightgreen);
+}
+
+p {
+    font-size: 20px;
+}
+
+#improve {
+    background-image: linear-gradient(orange , red);
+}
+
+#center {
+    text-align: center;
+    float: none;
+}
+
+#chat {
+    background-image: linear-gradient(lightblue, blue);
+}
+
+#ksd{
+    background-image: linear-gradient(orange, blue);
+}
+
+#style{
+    background-image: linear-gradient(rgba(251, 255, 0, 0.603) , rgb(40, 167, 218));
+}
+
+#example{
+background-image: linear-gradient(lightgreen , red); 
+
+}
+
+.input_div_message_page{
+    padding-top: 450px;
+}
+
+#back{
+    float:right;
+}
